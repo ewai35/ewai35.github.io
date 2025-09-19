@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>MSc. Student | Owens Lab| University of Victoria</a>
+subtitle: MSc. Student | Owens Lab | University of Victoria
 
 profile:
   align: right
