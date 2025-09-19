@@ -6,7 +6,7 @@ subtitle: <a href='#'>MSc. Student | Owens Lab| University of Victoria</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_7676.jpg
   image_circular: false # crops the image to make it circular
 
 
