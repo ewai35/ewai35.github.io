@@ -6,7 +6,7 @@ subtitle: MSc. Student | Owens Lab | University of Victoria
 
 profile:
   align: right
-  image: IMG_7676.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 
 
